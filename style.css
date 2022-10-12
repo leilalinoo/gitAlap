@@ -2,3 +2,24 @@ body{
     background-color: blue;
     color: aliceblue;
 }
+.wrapper{
+    width: 80%;
+    max-width: 800px;
+    background-color: rgb(192, 248, 248);
+    color:rgb(63, 89, 241);
+    margin: auto;
+    text-align: justify;
+}
+.wrapper h1{
+    text-align: center;
+    padding: 10px;
+}
+.jobb{
+    float: right;
+}
+.bal{
+    float: left;
+}
+.torol{
+    clear: both;
+}
